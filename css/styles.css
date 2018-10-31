@@ -1,5 +1,19 @@
 body {
-  font-family: 'Tangerine', serif;
+  /* font-family: 'Tangerine', serif;
   font-size: 48px;
-  background-color: purple;
+  background-color: purple; */
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -moz-background-size: cover;
+}
+
+/* COVER */
+#cover {
+  background-image: url('../images/sheldon.jpg');
+  background-repeat: no-repeat;
+  position: center;
+  background-size: cover, cover;
+  height: 547px;
+  border-bottom: 8px solid purple;
 }
