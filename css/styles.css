@@ -9,11 +9,15 @@ body {
 }
 
 /* COVER */
-#cover {
-  background-image: url('../images/sheldon.jpg');
+#header {
+  background-image: url("../images/sheldon.jpg");
   background-repeat: no-repeat;
   position: center;
   background-size: cover, cover;
   height: 547px;
   border-bottom: 8px solid purple;
+}
+
+/* Main */
+#main-images {
 }
